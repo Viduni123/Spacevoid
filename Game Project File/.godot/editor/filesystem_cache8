@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1716785358
+Asteroids.gd::GDScript::-1::1716773027::0::1::::<>Area2D<>::
+Asteroids.tscn::PackedScene::3330526564990794203::1716773162::0::1::::<><>::res://Asteroids.gd
+icon.svg::CompressedTexture2D::7061655555801067616::1716260790::1716260804::1::::<><>::
+Level.tscn::PackedScene::5129332197914864974::1716771540::0::1::::<><>::
+Spaceship.tscn::PackedScene::4805978168723250682::1716771790::0::1::::<><>::
+Spaceship_scene.tscn::PackedScene::5038797606718062013::1716773095::0::1::::<><>::
+::res://Assets/::1716785314
+Spaceship_temp.png::CompressedTexture2D::4445633510330509244::1716785314::1716785359::1::::<><>::

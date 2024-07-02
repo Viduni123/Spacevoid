@@ -1,0 +1,10 @@
+res://scroll.gdshader
+res://level_1.tscn
+res://coin.tscn
+res://character.tscn
+res://main.tscn
+res://control.tscn
+res://parallax_background.tscn
+res://character.gd
+res://parallax_background.gd
+res://asteroid.tscn

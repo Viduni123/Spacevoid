@@ -1,0 +1,15 @@
+res://Scenes/main_menu.tscn
+res://Scenes/scroll_.gdshader
+res://Scenes/Background.gdshader
+res://Scenes/Level.tscn
+res://Scenes/How_to_play_menu.tscn
+res://Scenes/spaceship.tscn
+res://Scenes/power_coins.tscn
+res://Scenes/Asteroid_1.tscn
+res://Scenes/Asteroid_2.tscn
+res://Scenes/Asteroids_3.tscn
+res://Scenes/Background.tscn
+res://Scenes/HUD.tscn
+res://Scenes/Bullet.tscn
+res://Scenes/Lose.tscn
+res://Scenes/Pause_menu.tscn

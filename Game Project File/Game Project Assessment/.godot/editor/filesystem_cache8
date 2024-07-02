@@ -1,0 +1,62 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1719796058
+icon.svg::CompressedTexture2D::1773315658682923515::1716785843::1716785856::1::::<><>::
+::res://assets/::1719284699
+Asteroid_1.png::CompressedTexture2D::9048378652193620733::1718075278::1718075290::1::::<><>::
+Asteroid_2.png::CompressedTexture2D::7901375962395644256::1718089623::1718089687::1::::<><>::
+Asteroid_3.png::CompressedTexture2D::8393194225960208426::1718074125::1718074126::1::::<><>::
+Background copy.png::CompressedTexture2D::6721771615532001163::1717146766::1717146766::1::::<><>::
+BulletTemp.png::CompressedTexture2D::8202294721861483752::1717817139::1717817165::1::::<><>::
+earth_Background copy.png::CompressedTexture2D::6897524155858062449::1717146152::1717146246::1::::<><>::
+how_to_play_scene.png::CompressedTexture2D::1842676849864292549::1719284694::1719284699::1::::<><>::
+layer.png::CompressedTexture2D::6419243210432269570::1717709070::1717709082::1::::<><>::
+level_button.png::CompressedTexture2D::8328307558063404376::1717984932::1717984934::1::::<><>::
+Picsart_24-03-09_16-20-18-170.png::CompressedTexture2D::6606159664427989300::1717101944::1717101945::1::::<><>::
+Power_coin_design0.png::CompressedTexture2D::2727338596567705001::1717714950::1717715035::1::::<><>::
+Power_coin_design6.png::CompressedTexture2D::2222947292963211860::1717714951::1717715035::1::::<><>::
+Power_coin_design12.png::CompressedTexture2D::3267379698783359882::1717714953::1717715035::1::::<><>::
+Power_coin_design18.png::CompressedTexture2D::7225689005848582548::1717714955::1717715035::1::::<><>::
+Power_coin_design24.png::CompressedTexture2D::9020619919364084625::1717714957::1717715035::1::::<><>::
+ScoreLabel.png::CompressedTexture2D::4081272490731216685::1718073484::1718073486::1::::<><>::
+Spaceship_design0.png::CompressedTexture2D::7298085760063203594::1717476946::1717477067::1::::<><>::
+Spaceship_design15.png::CompressedTexture2D::3433268768860209581::1717476951::1717477067::1::::<><>::
+Spaceship_design30.png::CompressedTexture2D::677798143441392454::1717476956::1717477067::1::::<><>::
+Spaceship_design45.png::CompressedTexture2D::2874015406398719896::1717476961::1717477067::1::::<><>::
+Title_1 copy.png::CompressedTexture2D::8270347455329314997::1717539950::1717539952::1::::<><>::
+Untitled-1.png::CompressedTexture2D::5496296639995678927::1717399338::1717399338::1::::<><>::
+::res://Scenes/::1719635435
+Asteroids.tscn::PackedScene::4224896757473600146::1718074242::0::1::::<><>::uid://drtyxherepeys::::res://assets/Asteroid_3.png
+Asteroids_3.tscn::PackedScene::4640114043934631520::1719635429::0::1::::<><>::uid://drtyxherepeys::::res://assets/Asteroid_3.png<>res://Scripts/Asteroids_3.gd
+Asteroid_1.tscn::PackedScene::5260817358448396004::1719635429::0::1::::<><>::uid://d16dqeoqp41uv::::res://assets/Asteroid_1.png<>res://Scripts/Asteroid_1.gd
+Asteroid_2.tscn::PackedScene::1586590879253152848::1719635429::0::1::::<><>::uid://dktqri5pl2h0k::::res://assets/Asteroid_2.png<>res://Scripts/Asteroid_2.gd
+Background.gdshader::Shader::-1::1719635435::0::1::::<><>::
+Background.tscn::PackedScene::2278923341073519748::1719635430::0::1::::<><>::uid://c21cujqwrkx5t::::res://assets/Background copy.png
+Bullet.tscn::PackedScene::3770913361331830247::1719635430::0::1::::<><>::res://Scripts/Bullet.gd<>uid://do4iuivl0wgou::::res://assets/BulletTemp.png
+coins_score.tscn::PackedScene::366350629874161284::1718233353::0::1::::<><>::
+How_to_play_menu.tscn::PackedScene::4543838178450939759::1719635428::0::1::::<><>::res://Scripts/How_to_play_menu.gd<>uid://c21cujqwrkx5t::::res://assets/Background copy.png<>uid://ckkpg5ivpmy1l::::res://assets/Untitled-1.png
+HUD.tscn::PackedScene::4100751373118531333::1719635430::0::1::::<><>::uid://dqwkakb7ty1fw::::res://assets/level_button.png<>res://Scripts/HUD.gd
+Level.tscn::PackedScene::2252629083481286956::1719635428::0::1::::<><>::res://Scripts/Level.gd<>uid://7p6sf3583bnw::::res://Scenes/Background.tscn<>uid://b27qbr4jrvrq3::::res://Scenes/spaceship.tscn<>uid://8n7umep42hfs::::res://Scenes/power_coins.tscn<>uid://cg7m5mvomnei3::::res://Scenes/Asteroid_1.tscn<>uid://wus6jq2apy53::::res://Scenes/Asteroid_2.tscn<>uid://b7dyaaoynviu7::::res://Scenes/Asteroids_3.tscn<>uid://byoo1nboxjopx::::res://Scenes/HUD.tscn
+Lose.tscn::PackedScene::3811526167344770561::1719635430::0::1::::<><>::res://Scripts/Lose.gd<>uid://c21cujqwrkx5t::::res://assets/Background copy.png
+main_menu.gdshader::Shader::-1::1717148133::0::1::::<><>::
+main_menu.tscn::PackedScene::3310436733990959667::1719635428::0::1::::<><>::res://Scripts/main_menu.gd<>res://Scenes/scroll_.gdshader<>uid://c21cujqwrkx5t::::res://assets/Background copy.png<>uid://c5jhhkwsapwc4::::res://assets/earth_Background copy.png<>uid://ckkpg5ivpmy1l::::res://assets/Untitled-1.png<>uid://dp3hoc5ypmqmn::::res://assets/Title_1 copy.png
+Pause_menu.tscn::PackedScene::6323167828215474761::1719635431::0::1::::<><>::res://Scripts/Pause_menu.gd<>uid://c21cujqwrkx5t::::res://assets/Background copy.png<>uid://ckkpg5ivpmy1l::::res://assets/Untitled-1.png
+power_coins.tscn::PackedScene::2345048047685244512::1719635429::0::1::::<><>::res://Scripts/power_coins.gd<>uid://d1rwj6yna25e0::::res://assets/Power_coin_design24.png<>uid://6w2u8oakxojs::::res://assets/Power_coin_design6.png<>uid://bms0jb2oupgby::::res://assets/Power_coin_design12.png<>uid://da7gbo3g1cbey::::res://assets/Power_coin_design18.png<>uid://be4e4rwmymmxl::::res://assets/Power_coin_design0.png
+Score.tscn::PackedScene::7814797839105308884::1717797609::0::1::::<><>::
+scroll_.gdshader::Shader::-1::1719635435::0::1::::<><>::
+spaceship.tscn::PackedScene::4348553745856819224::1719635429::0::1::::<><>::res://Scripts/spaceship.gd<>uid://btywnlkbfbbdf::::res://Scenes/Bullet.tscn<>uid://bo6do1446i4ub::::res://assets/Spaceship_design15.png<>uid://jwlibjjb7lfa::::res://assets/Spaceship_design30.png<>uid://bg7gu4usqi817::::res://assets/Spaceship_design45.png
+::res://Scripts/::1719124455
+Asteroids_3.gd::GDScript::-1::1718679325::0::1::::<>Area2D<>::
+Asteroid_1.gd::GDScript::-1::1718679325::0::1::::<>Area2D<>::
+Asteroid_2.gd::GDScript::-1::1718679325::0::1::::<>Area2D<>::
+Bullet.gd::GDScript::-1::1718692782::0::1::::<>Area2D<>::
+coin_core.gd::GDScript::-1::1718749439::0::1::::<>Label<>::
+How_to_play_menu.gd::GDScript::-1::1717469339::0::1::::<>Node2D<>::
+HUD.gd::GDScript::-1::1719124455::0::1::::<>CanvasLayer<>::
+Level.gd::GDScript::-1::1718750272::0::1::::<>Node2D<>::
+Lose.gd::GDScript::-1::1718097719::0::1::::<>Control<>::
+main_menu.gd::GDScript::-1::1717468907::0::1::::<>Control<>::
+Pause_menu.gd::GDScript::-1::1718143855::0::1::::<>Node2D<>::
+power_coins.gd::GDScript::-1::1716862915::0::1::::<>Area2D<>::
+Score.gd::GDScript::-1::1718233311::0::1::::<>Control<>::
+Score_counter.gd::GDScript::-1::1718497517::0::1::::<>Control<>::
+spaceship.gd::GDScript::-1::1718919138::0::1::::<>Area2D<>::

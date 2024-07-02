@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1717052078
+character.gd::GDScript::-1::1716935029::0::1::::<>Area2D<>::
+character.tscn::PackedScene::6742861460854146027::1717051757::0::1::::<><>::res://character.gd<>uid://24rjenbdyldc::::res://Picsart_24-05-27_16-44-27-689.png
+coin.gd::GDScript::-1::1716934382::0::1::::<>Area2D<>::
+coin.tscn::PackedScene::3129022607586267557::1717051756::0::1::::<><>::res://coin.gd<>uid://3wqgs0ptkj70::::res://CoinTemp.png
+CoinTemp.png::CompressedTexture2D::2011687103849653917::1716932967::1716932968::1::::<><>::
+control.tscn::PackedScene::7458319786053636247::1717051758::0::1::::<><>::
+icon.svg::CompressedTexture2D::5730594878097544001::1716883718::1716883731::1::::<><>::
+level_1.gd::GDScript::-1::1716934382::0::1::::<>Control<>::
+level_1.tscn::PackedScene::7750944822325764458::1717051756::0::1::::<><>::res://scroll.gdshader<>res://level_1.gd<>uid://bktyssignhwhx::::res://coin.tscn<>uid://c3yw61x8010ko::::res://spacetemp.png
+main.tscn::PackedScene::1895191535342775660::1717051757::0::1::::<><>::uid://diou6txogshoc::::res://level_1.tscn
+Picsart_24-03-09_16-20-18-170.png::CompressedTexture2D::292221386292389133::1717052078::1717052078::1::::<><>::
+Picsart_24-05-27_16-44-27-689.png::CompressedTexture2D::1956014224343040356::1716934331::1716934331::1::::<><>::
+parallax_background.tscn::PackedScene::1317744880556509966::1717051758::0::1::::<><>::uid://c3yw61x8010ko::::res://spacetemp.png
+scroll.gdshader::Shader::-1::1717051758::0::1::::<><>::
+spacetemp.png::CompressedTexture2D::6789066591471891334::1716885633::1716885634::1::::<><>::
